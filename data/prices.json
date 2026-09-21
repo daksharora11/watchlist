@@ -1,7 +1,21 @@
 {
-  "updated": null,
-  "source": null,
+  "updated": "2026-09-21T21:13:59+00:00",
+  "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
   "quotes": {},
-  "missing": [],
+  "missing": [
+    "MU",
+    "SNDK",
+    "LRCX",
+    "MRVL",
+    "INTC",
+    "NVDA",
+    "COIN",
+    "HOOD",
+    "MSTR",
+    "VLO",
+    "FRO",
+    "VST",
+    "CEG"
+  ],
   "pulse": []
 }
