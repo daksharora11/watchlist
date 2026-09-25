@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-24T23:46:31+00:00",
+  "updated": "2026-09-25T17:45:14+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {},
+  "quotes": {
+    "MU": {
+      "price": 1083.137,
+      "prev": 1080.53,
+      "hi52": 1255.0,
+      "lo52": 155.18,
+      "asOf": "2026-09-25T17:41:11+00:00",
+      "source": "Yahoo Finance"
+    }
+  },
   "missing": [
-    "MU",
     "SNDK",
     "LRCX",
     "MRVL",
