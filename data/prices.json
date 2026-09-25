@@ -1,24 +1,7 @@
 {
-  "updated": "2026-09-25T20:49:21+00:00",
+  "updated": "2026-09-25T23:48:30+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {
-    "MSTR": {
-      "price": 158.61,
-      "prev": 161.61,
-      "hi52": 365.21,
-      "lo52": 81.81,
-      "asOf": "2026-09-25T20:00:01+00:00",
-      "source": "Yahoo Finance"
-    },
-    "VST": {
-      "price": 138.46,
-      "prev": 137.94,
-      "hi52": 217.1,
-      "lo52": 132.66,
-      "asOf": "2026-09-25T20:00:03+00:00",
-      "source": "Yahoo Finance"
-    }
-  },
+  "quotes": {},
   "missing": [
     "MU",
     "SNDK",
@@ -28,16 +11,11 @@
     "NVDA",
     "COIN",
     "HOOD",
+    "MSTR",
     "VLO",
     "FRO",
+    "VST",
     "CEG"
   ],
-  "pulse": [
-    {
-      "label": "Bitcoin",
-      "kind": "price",
-      "price": 84069.21,
-      "prev": 84378.125
-    }
-  ]
+  "pulse": []
 }
