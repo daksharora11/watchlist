@@ -1,22 +1,14 @@
 {
-  "updated": "2026-10-01T18:42:48+00:00",
+  "updated": "2026-10-01T22:58:18+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {
-    "NVDA": {
-      "price": 231.905,
-      "prev": 228.38,
-      "hi52": 236.54,
-      "lo52": 164.27,
-      "asOf": "2026-10-01T18:40:04+00:00",
-      "source": "Yahoo Finance"
-    }
-  },
+  "quotes": {},
   "missing": [
     "MU",
     "SNDK",
     "LRCX",
     "MRVL",
     "INTC",
+    "NVDA",
     "COIN",
     "HOOD",
     "MSTR",
