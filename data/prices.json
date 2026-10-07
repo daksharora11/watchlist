@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T23:09:40+00:00",
+  "updated": "2026-10-07T19:13:52+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
   "quotes": {},
   "missing": [
@@ -17,5 +17,18 @@
     "VST",
     "CEG"
   ],
-  "pulse": []
+  "pulse": [
+    {
+      "label": "10-yr yield",
+      "kind": "yield",
+      "price": 5.277,
+      "prev": 5.269
+    },
+    {
+      "label": "Bitcoin",
+      "kind": "price",
+      "price": 83343.85,
+      "prev": 85546.23
+    }
+  ]
 }
