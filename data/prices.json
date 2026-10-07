@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T19:13:52+00:00",
+  "updated": "2026-10-07T23:38:17+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
   "quotes": {},
   "missing": [
@@ -19,16 +19,10 @@
   ],
   "pulse": [
     {
-      "label": "10-yr yield",
-      "kind": "yield",
-      "price": 5.277,
-      "prev": 5.269
-    },
-    {
-      "label": "Bitcoin",
-      "kind": "price",
-      "price": 83343.85,
-      "prev": 85546.23
+      "label": "S&P 500",
+      "kind": "pct",
+      "price": 7801.77,
+      "prev": 7818.93
     }
   ]
 }
