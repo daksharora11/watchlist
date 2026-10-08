@@ -1,13 +1,28 @@
 {
-  "updated": "2026-10-08T19:09:53+00:00",
+  "updated": "2026-10-08T23:47:53+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {},
+  "quotes": {
+    "SNDK": {
+      "price": 1609.46,
+      "prev": 1692.42,
+      "hi52": 2354.39,
+      "lo52": 116.17,
+      "asOf": "2026-10-08T20:00:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    "INTC": {
+      "price": 107.08,
+      "prev": 113.12,
+      "hi52": 142.35,
+      "lo52": 32.89,
+      "asOf": "2026-10-08T20:00:01+00:00",
+      "source": "Yahoo Finance"
+    }
+  },
   "missing": [
     "MU",
-    "SNDK",
     "LRCX",
     "MRVL",
-    "INTC",
     "NVDA",
     "COIN",
     "HOOD",
