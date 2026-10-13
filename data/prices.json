@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-12T21:33:55+00:00",
+  "updated": "2026-10-13T02:44:44+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {},
+  "quotes": {
+    "NVDA": {
+      "price": 226.32,
+      "prev": 229.28,
+      "hi52": 243.37,
+      "lo52": 164.27,
+      "asOf": "2026-10-12T20:00:00+00:00",
+      "source": "Yahoo Finance"
+    }
+  },
   "missing": [
     "MU",
     "SNDK",
     "LRCX",
     "MRVL",
     "INTC",
-    "NVDA",
     "COIN",
     "HOOD",
     "MSTR",
@@ -17,5 +25,12 @@
     "VST",
     "CEG"
   ],
-  "pulse": []
+  "pulse": [
+    {
+      "label": "Bitcoin",
+      "kind": "price",
+      "price": 82775.87,
+      "prev": 81754.484
+    }
+  ]
 }
