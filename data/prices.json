@@ -1,11 +1,19 @@
 {
-  "updated": "2026-10-14T21:01:59+00:00",
+  "updated": "2026-10-14T23:48:01+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {},
+  "quotes": {
+    "LRCX": {
+      "price": 286.92,
+      "prev": 301.11,
+      "hi52": 438.5,
+      "lo52": 135.5,
+      "asOf": "2026-10-14T20:00:01+00:00",
+      "source": "Yahoo Finance"
+    }
+  },
   "missing": [
     "MU",
     "SNDK",
-    "LRCX",
     "MRVL",
     "INTC",
     "NVDA",
