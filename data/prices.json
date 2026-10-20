@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T17:45:08+00:00",
+  "updated": "2026-10-20T20:57:09+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
   "quotes": {},
   "missing": [
@@ -17,12 +17,5 @@
     "VST",
     "CEG"
   ],
-  "pulse": [
-    {
-      "label": "S&P 500",
-      "kind": "pct",
-      "price": 7722.58,
-      "prev": 7690.73
-    }
-  ]
+  "pulse": []
 }
