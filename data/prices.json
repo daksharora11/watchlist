@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-20T23:38:07+00:00",
+  "updated": "2026-10-21T17:52:19+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {},
+  "quotes": {
+    "HOOD": {
+      "price": 102.42,
+      "prev": 98.21,
+      "hi52": 150.47,
+      "lo52": 63.515,
+      "asOf": "2026-10-21T17:49:48+00:00",
+      "source": "Yahoo Finance"
+    }
+  },
   "missing": [
     "MU",
     "SNDK",
@@ -10,7 +19,6 @@
     "INTC",
     "NVDA",
     "COIN",
-    "HOOD",
     "MSTR",
     "VLO",
     "FRO",
