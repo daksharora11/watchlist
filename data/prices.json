@@ -1,16 +1,7 @@
 {
-  "updated": "2026-10-21T17:52:19+00:00",
+  "updated": "2026-10-21T21:09:13+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {
-    "HOOD": {
-      "price": 102.42,
-      "prev": 98.21,
-      "hi52": 150.47,
-      "lo52": 63.515,
-      "asOf": "2026-10-21T17:49:48+00:00",
-      "source": "Yahoo Finance"
-    }
-  },
+  "quotes": {},
   "missing": [
     "MU",
     "SNDK",
@@ -19,11 +10,19 @@
     "INTC",
     "NVDA",
     "COIN",
+    "HOOD",
     "MSTR",
     "VLO",
     "FRO",
     "VST",
     "CEG"
   ],
-  "pulse": []
+  "pulse": [
+    {
+      "label": "S&P 500",
+      "kind": "pct",
+      "price": 7757.17,
+      "prev": 7712.57
+    }
+  ]
 }
