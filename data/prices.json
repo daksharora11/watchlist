@@ -1,17 +1,9 @@
 {
-  "updated": "2026-10-23T20:42:29+00:00",
+  "updated": "2026-10-23T23:33:34+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {
-    "MU": {
-      "price": 877.55,
-      "prev": 856.49,
-      "hi52": 1255.0,
-      "lo52": 192.59,
-      "asOf": "2026-10-23T20:00:01+00:00",
-      "source": "Yahoo Finance"
-    }
-  },
+  "quotes": {},
   "missing": [
+    "MU",
     "SNDK",
     "LRCX",
     "MRVL",
@@ -25,12 +17,5 @@
     "VST",
     "CEG"
   ],
-  "pulse": [
-    {
-      "label": "Bitcoin",
-      "kind": "price",
-      "price": 81290.04,
-      "prev": 81316.2
-    }
-  ]
+  "pulse": []
 }
