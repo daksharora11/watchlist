@@ -1,37 +1,15 @@
 {
-  "updated": "2026-10-29T18:48:21+00:00",
+  "updated": "2026-10-29T23:03:30+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {
-    "MU": {
-      "price": 930.09,
-      "prev": 983.23,
-      "hi52": 1255.0,
-      "lo52": 192.59,
-      "asOf": "2026-10-29T18:44:51+00:00",
-      "source": "Yahoo Finance"
-    },
-    "NVDA": {
-      "price": 212.65,
-      "prev": 215.38,
-      "hi52": 243.37,
-      "lo52": 164.27,
-      "asOf": "2026-10-29T18:45:55+00:00",
-      "source": "Yahoo Finance"
-    },
-    "COIN": {
-      "price": 158.26,
-      "prev": 162.32,
-      "hi52": 361.4,
-      "lo52": 139.11,
-      "asOf": "2026-10-29T18:45:49+00:00",
-      "source": "Yahoo Finance"
-    }
-  },
+  "quotes": {},
   "missing": [
+    "MU",
     "SNDK",
     "LRCX",
     "MRVL",
     "INTC",
+    "NVDA",
+    "COIN",
     "HOOD",
     "MSTR",
     "VLO",
