@@ -1,18 +1,10 @@
 {
-  "updated": "2026-10-30T18:40:45+00:00",
+  "updated": "2026-10-30T22:36:09+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {
-    "SNDK": {
-      "price": 1127.45,
-      "prev": 1330.05,
-      "hi52": 2354.39,
-      "lo52": 183.0,
-      "asOf": "2026-10-30T18:22:36+00:00",
-      "source": "Yahoo Finance"
-    }
-  },
+  "quotes": {},
   "missing": [
     "MU",
+    "SNDK",
     "LRCX",
     "MRVL",
     "INTC",
@@ -27,10 +19,10 @@
   ],
   "pulse": [
     {
-      "label": "Bitcoin",
-      "kind": "price",
-      "price": 76653.0,
-      "prev": 77791.375
+      "label": "S&P 500",
+      "kind": "pct",
+      "price": 7580.07,
+      "prev": 7720.39
     }
   ]
 }
