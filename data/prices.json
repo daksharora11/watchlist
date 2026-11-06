@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-05T20:30:06+00:00",
+  "updated": "2026-11-06T01:05:27+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {},
+  "quotes": {
+    "NVDA": {
+      "price": 181.6,
+      "prev": 200.13,
+      "hi52": 243.37,
+      "lo52": 164.27,
+      "asOf": "2026-11-05T21:00:01+00:00",
+      "source": "Yahoo Finance"
+    }
+  },
   "missing": [
     "MU",
     "SNDK",
     "LRCX",
     "MRVL",
     "INTC",
-    "NVDA",
     "COIN",
     "HOOD",
     "MSTR",
@@ -17,5 +25,12 @@
     "VST",
     "CEG"
   ],
-  "pulse": []
+  "pulse": [
+    {
+      "label": "S&P 500",
+      "kind": "pct",
+      "price": 7353.73,
+      "prev": 7688.62
+    }
+  ]
 }
