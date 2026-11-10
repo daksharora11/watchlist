@@ -1,17 +1,32 @@
 {
-  "updated": "2026-11-09T22:52:48+00:00",
+  "updated": "2026-11-10T20:11:32+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {},
+  "quotes": {
+    "MRVL": {
+      "price": 152.835,
+      "prev": 154.6,
+      "hi52": 329.88,
+      "lo52": 70.69,
+      "asOf": "2026-11-10T20:08:39+00:00",
+      "source": "Yahoo Finance"
+    },
+    "MSTR": {
+      "price": 119.63,
+      "prev": 125.59,
+      "hi52": 239.24,
+      "lo52": 81.81,
+      "asOf": "2026-11-10T20:09:48+00:00",
+      "source": "Yahoo Finance"
+    }
+  },
   "missing": [
     "MU",
     "SNDK",
     "LRCX",
-    "MRVL",
     "INTC",
     "NVDA",
     "COIN",
     "HOOD",
-    "MSTR",
     "VLO",
     "FRO",
     "VST",
@@ -21,8 +36,14 @@
     {
       "label": "Nasdaq",
       "kind": "pct",
-      "price": 25253.139,
-      "prev": 24579.424
+      "price": 25000.814,
+      "prev": 25253.139
+    },
+    {
+      "label": "Bitcoin",
+      "kind": "price",
+      "price": 73330.85,
+      "prev": 75253.86
     }
   ]
 }
