@@ -1,10 +1,18 @@
 {
-  "updated": "2026-11-11T20:00:53+00:00",
+  "updated": "2026-11-12T01:51:23+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {},
+  "quotes": {
+    "SNDK": {
+      "price": 977.69,
+      "prev": 859.99,
+      "hi52": 2354.39,
+      "lo52": 183.0,
+      "asOf": "2026-11-11T21:00:01+00:00",
+      "source": "Yahoo Finance"
+    }
+  },
   "missing": [
     "MU",
-    "SNDK",
     "LRCX",
     "MRVL",
     "INTC",
