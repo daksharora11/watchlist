@@ -1,13 +1,21 @@
 {
-  "updated": "2026-11-18T03:07:07+00:00",
+  "updated": "2026-11-18T21:05:35+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
-  "quotes": {},
+  "quotes": {
+    "INTC": {
+      "price": 54.67,
+      "prev": 55.17,
+      "hi52": 142.35,
+      "lo52": 32.89,
+      "asOf": "2026-11-18T21:00:01+00:00",
+      "source": "Yahoo Finance"
+    }
+  },
   "missing": [
     "MU",
     "SNDK",
     "LRCX",
     "MRVL",
-    "INTC",
     "NVDA",
     "COIN",
     "HOOD",
