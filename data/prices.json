@@ -1,13 +1,21 @@
 {
-  "updated": "2026-11-20T02:21:12+00:00",
+  "updated": "2026-11-20T20:55:26+00:00",
   "source": "Yahoo Finance with Stooq fallback; delayed about 15 minutes",
   "quotes": {
+    "INTC": {
+      "price": 51.855,
+      "prev": 55.72,
+      "hi52": 142.35,
+      "lo52": 32.89,
+      "asOf": "2026-11-20T20:52:45+00:00",
+      "source": "Yahoo Finance"
+    },
     "HOOD": {
-      "price": 68.65,
-      "prev": 69.17,
+      "price": 62.55,
+      "prev": 68.65,
       "hi52": 139.75,
-      "lo52": 63.515,
-      "asOf": "2026-11-19T21:00:00+00:00",
+      "lo52": 61.96,
+      "asOf": "2026-11-20T20:53:12+00:00",
       "source": "Yahoo Finance"
     }
   },
@@ -16,7 +24,6 @@
     "SNDK",
     "LRCX",
     "MRVL",
-    "INTC",
     "NVDA",
     "COIN",
     "MSTR",
